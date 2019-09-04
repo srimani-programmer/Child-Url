@@ -43,15 +43,18 @@
         <script>
 
 	    $(document).ready(function(){
-  $("#copy").click(function(){
-    Swal.fire({
-	title:'copied!',
-	text:'copied successfully',
-	type:'success',
-	confirmButtonText:'Ok'
-})
-});
-});
+            $("#copy").click(function(){
+                var copyText = document.getElementById("output");
+                copyText.select();
+                document.execCommand("copy");
+                Swal.fire({
+                	title:'copied!',
+                	text:'copied successfully',
+                	type:'success',
+                	confirmButtonText:'Ok'
+                })
+            });
+        });
 
 
             function copied() {
