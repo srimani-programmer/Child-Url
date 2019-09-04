@@ -1,0 +1,3 @@
+RewriteEngine on
+
+RewriteRule ^search/([0-9a-zA-Z]+) search.php?key=$1 [NC,L]
