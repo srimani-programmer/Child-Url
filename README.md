@@ -16,13 +16,13 @@
 
 ### 4. paste it on another new tab.
 
-![image4](images/4.png)
+![image4](Images/4.png)
 
 ### 5. Now you redirected to first visited website.
 
-![image5](images/5.png)
+![image5](Images/5.png)
 
 ## Contributers
-Sai Vardhan Poloju (@vardhan-scripter)
+* Sai Vardhan Poloju ([@vardhan-scripter](https://github.com/vardhan-scripter))
 
-Sri Manikanta Palakollu (@srimani-programmer)
+* Sri Manikanta Palakollu ([@srimani-programmer](https://github.com/srimani-programmer))
